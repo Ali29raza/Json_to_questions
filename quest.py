@@ -84,7 +84,7 @@ def generate_single_question(field_path, intentDescription):
     Description: Capture the user’s current phase in life, such as studying, working, married, retired, etc.
 
     Example output:
-    “What stage of life are you currently in? Feel free to share if you’re studying, working, raising a family, or going through any major change right now.”
+    What stage of life are you currently in? Feel free to share if you’re studying, working, raising a family, or going through any major change right now.
 
     Now generate a similar conversational question for:
 
